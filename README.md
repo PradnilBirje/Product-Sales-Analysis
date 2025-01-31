@@ -1,5 +1,5 @@
 # Product-Sales-Analysis
-"Analysis of product sales for outdoor and adventure categories using advanced excel. This project involves sales trends, revenue breakdowns, and category-wise performance visualization based on a detailed dataset."
+```"Analysis of product sales for outdoor and adventure categories using advanced excel. This project involves sales trends, revenue breakdowns, and category-wise performance visualization based on a detailed dataset."
 
 This project involves analyzing product sales for outdoor and adventure categories by creating interactive dashboards in Excel. Using a raw dataset, pivot tables and charts were developed to visualize key performance metrics. The project is organized into three dashboards:
 
@@ -29,4 +29,4 @@ Comprehensive dashboards to present findings
 
 Technologies Used:
 Microsoft Excel
-This project demonstrates the use of Excel for data analysis and visualization, showcasing insights into sales, profitability, and order trends for different segments, countries, and products.
+This project demonstrates the use of Excel for data analysis and visualization, showcasing insights into sales, profitability, and order trends for different segments, countries, and products.'''
